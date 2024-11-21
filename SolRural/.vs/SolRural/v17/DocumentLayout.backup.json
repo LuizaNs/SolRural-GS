@@ -1,0 +1,380 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\luiza\\source\\repos\\SolRural\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E2D3BB4F-DBCC-4F19-9B94-4E5B3C8F9E62}|SolRural.csproj|c:\\users\\luiza\\source\\repos\\solrural\\controllers\\cultivocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2D3BB4F-DBCC-4F19-9B94-4E5B3C8F9E62}|SolRural.csproj|solutionrelative:controllers\\cultivocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2D3BB4F-DBCC-4F19-9B94-4E5B3C8F9E62}|SolRural.csproj|c:\\users\\luiza\\source\\repos\\solrural\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2D3BB4F-DBCC-4F19-9B94-4E5B3C8F9E62}|SolRural.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAE03A1F-2BDD-47C2-B039-BB5CC3EDE9BA}|..\\SolRural.Data\\SolRural.Data.csproj|c:\\users\\luiza\\source\\repos\\solrural.data\\proprietariodbsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B0C19CF-D21F-420C-B4ED-EB17D33CB279}|..\\SolRural.Service\\SolRural.Service.csproj|c:\\users\\luiza\\source\\repos\\solrural.service\\proprietarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B0C19CF-D21F-420C-B4ED-EB17D33CB279}|..\\SolRural.Service\\SolRural.Service.csproj|c:\\users\\luiza\\source\\repos\\solrural.service\\medicaoenergservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B0C19CF-D21F-420C-B4ED-EB17D33CB279}|..\\SolRural.Service\\SolRural.Service.csproj|c:\\users\\luiza\\source\\repos\\solrural.service\\localizacaoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B0C19CF-D21F-420C-B4ED-EB17D33CB279}|..\\SolRural.Service\\SolRural.Service.csproj|c:\\users\\luiza\\source\\repos\\solrural.service\\instalacaoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B0C19CF-D21F-420C-B4ED-EB17D33CB279}|..\\SolRural.Service\\SolRural.Service.csproj|c:\\users\\luiza\\source\\repos\\solrural.service\\fazendaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B0C19CF-D21F-420C-B4ED-EB17D33CB279}|..\\SolRural.Service\\SolRural.Service.csproj|c:\\users\\luiza\\source\\repos\\solrural.service\\cultivoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2D3BB4F-DBCC-4F19-9B94-4E5B3C8F9E62}|SolRural.csproj|c:\\users\\luiza\\source\\repos\\solrural\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E2D3BB4F-DBCC-4F19-9B94-4E5B3C8F9E62}|SolRural.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAE03A1F-2BDD-47C2-B039-BB5CC3EDE9BA}|..\\SolRural.Data\\SolRural.Data.csproj|c:\\users\\luiza\\source\\repos\\solrural.data\\medicaoenergdbsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAE03A1F-2BDD-47C2-B039-BB5CC3EDE9BA}|..\\SolRural.Data\\SolRural.Data.csproj|c:\\users\\luiza\\source\\repos\\solrural.data\\localizacaodbsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAE03A1F-2BDD-47C2-B039-BB5CC3EDE9BA}|..\\SolRural.Data\\SolRural.Data.csproj|c:\\users\\luiza\\source\\repos\\solrural.data\\instalacaodbsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAE03A1F-2BDD-47C2-B039-BB5CC3EDE9BA}|..\\SolRural.Data\\SolRural.Data.csproj|c:\\users\\luiza\\source\\repos\\solrural.data\\fazendadbsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAE03A1F-2BDD-47C2-B039-BB5CC3EDE9BA}|..\\SolRural.Data\\SolRural.Data.csproj|c:\\users\\luiza\\source\\repos\\solrural.data\\cultivodbsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2D3BB4F-DBCC-4F19-9B94-4E5B3C8F9E62}|SolRural.csproj|c:\\users\\luiza\\source\\repos\\solrural\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E2D3BB4F-DBCC-4F19-9B94-4E5B3C8F9E62}|SolRural.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADE6AC7C-C5FE-4AEC-A9B8-D8FC505ECAE1}|..\\SolRural.Models\\SolRural.Models.csproj|c:\\users\\luiza\\source\\repos\\solrural.models\\cultivo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B0C19CF-D21F-420C-B4ED-EB17D33CB279}|..\\SolRural.Service\\SolRural.Service.csproj|c:\\users\\luiza\\source\\repos\\solrural.service\\recommendation\\recommendationengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D31FF20-A529-4424-AF0A-8DF393732D28}|..\\SolRural.Factories\\SolRural.Factories.csproj|c:\\users\\luiza\\source\\repos\\solrural.factories\\matrixfactorizationmodelfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADE6AC7C-C5FE-4AEC-A9B8-D8FC505ECAE1}|..\\SolRural.Models\\SolRural.Models.csproj|c:\\users\\luiza\\source\\repos\\solrural.models\\cultivoinstalacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D31FF20-A529-4424-AF0A-8DF393732D28}|..\\SolRural.Factories\\SolRural.Factories.csproj|c:\\users\\luiza\\source\\repos\\solrural.factories\\irecommendationmodelfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B0C19CF-D21F-420C-B4ED-EB17D33CB279}|..\\SolRural.Service\\SolRural.Service.csproj|c:\\users\\luiza\\source\\repos\\solrural.service\\recommendation\\cultivorating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProprietarioDbSettings.cs",
+              "DocumentMoniker": "C:\\Users\\luiza\\source\\repos\\SolRural.Data\\ProprietarioDbSettings.cs",
+              "RelativeDocumentMoniker": "..\\SolRural.Data\\ProprietarioDbSettings.cs",
+              "ToolTip": "C:\\Users\\luiza\\source\\repos\\SolRural.Data\\ProprietarioDbSettings.cs",
+              "RelativeToolTip": "..\\SolRural.Data\\ProprietarioDbSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T18:43:23.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CultivoService.cs",
+              "DocumentMoniker": "C:\\Users\\luiza\\source\\repos\\SolRural.Service\\CultivoService.cs",
+              "RelativeDocumentMoniker": "..\\SolRural.Service\\CultivoService.cs",
+              "ToolTip": "C:\\Users\\luiza\\source\\repos\\SolRural.Service\\CultivoService.cs",
+              "RelativeToolTip": "..\\SolRural.Service\\CultivoService.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAYwAsAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T18:39:28.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\luiza\\source\\repos\\SolRural\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\luiza\\source\\repos\\SolRural\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-21T18:31:53.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FazendaService.cs",
+              "DocumentMoniker": "C:\\Users\\luiza\\source\\repos\\SolRural.Service\\FazendaService.cs",
+              "RelativeDocumentMoniker": "..\\SolRural.Service\\FazendaService.cs",
+              "ToolTip": "C:\\Users\\luiza\\source\\repos\\SolRural.Service\\FazendaService.cs",
+              "RelativeToolTip": "..\\SolRural.Service\\FazendaService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T19:03:37.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "InstalacaoService.cs",
+              "DocumentMoniker": "C:\\Users\\luiza\\source\\repos\\SolRural.Service\\InstalacaoService.cs",
+              "RelativeDocumentMoniker": "..\\SolRural.Service\\InstalacaoService.cs",
+              "ToolTip": "C:\\Users\\luiza\\source\\repos\\SolRural.Service\\InstalacaoService.cs",
+              "RelativeToolTip": "..\\SolRural.Service\\InstalacaoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T19:03:47.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LocalizacaoService.cs",
+              "DocumentMoniker": "C:\\Users\\luiza\\source\\repos\\SolRural.Service\\LocalizacaoService.cs",
+              "RelativeDocumentMoniker": "..\\SolRural.Service\\LocalizacaoService.cs",
+              "ToolTip": "C:\\Users\\luiza\\source\\repos\\SolRural.Service\\LocalizacaoService.cs",
+              "RelativeToolTip": "..\\SolRural.Service\\LocalizacaoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T19:03:59.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MedicaoEnergService.cs",
+              "DocumentMoniker": "C:\\Users\\luiza\\source\\repos\\SolRural.Service\\MedicaoEnergService.cs",
+              "RelativeDocumentMoniker": "..\\SolRural.Service\\MedicaoEnergService.cs",
+              "ToolTip": "C:\\Users\\luiza\\source\\repos\\SolRural.Service\\MedicaoEnergService.cs",
+              "RelativeToolTip": "..\\SolRural.Service\\MedicaoEnergService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T19:05:03.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProprietarioService.cs",
+              "DocumentMoniker": "C:\\Users\\luiza\\source\\repos\\SolRural.Service\\ProprietarioService.cs",
+              "RelativeDocumentMoniker": "..\\SolRural.Service\\ProprietarioService.cs",
+              "ToolTip": "C:\\Users\\luiza\\source\\repos\\SolRural.Service\\ProprietarioService.cs",
+              "RelativeToolTip": "..\\SolRural.Service\\ProprietarioService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T19:05:12.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\luiza\\source\\repos\\SolRural\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\luiza\\source\\repos\\SolRural\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T18:55:13.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CultivoController.cs",
+              "DocumentMoniker": "C:\\Users\\luiza\\source\\repos\\SolRural\\Controllers\\CultivoController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CultivoController.cs",
+              "ToolTip": "C:\\Users\\luiza\\source\\repos\\SolRural\\Controllers\\CultivoController.cs",
+              "RelativeToolTip": "Controllers\\CultivoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T18:46:05.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MedicaoEnergDbSettings.cs",
+              "DocumentMoniker": "C:\\Users\\luiza\\source\\repos\\SolRural.Data\\MedicaoEnergDbSettings.cs",
+              "RelativeDocumentMoniker": "..\\SolRural.Data\\MedicaoEnergDbSettings.cs",
+              "ToolTip": "C:\\Users\\luiza\\source\\repos\\SolRural.Data\\MedicaoEnergDbSettings.cs",
+              "RelativeToolTip": "..\\SolRural.Data\\MedicaoEnergDbSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T18:43:12.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LocalizacaoDbSettings.cs",
+              "DocumentMoniker": "C:\\Users\\luiza\\source\\repos\\SolRural.Data\\LocalizacaoDbSettings.cs",
+              "RelativeDocumentMoniker": "..\\SolRural.Data\\LocalizacaoDbSettings.cs",
+              "ToolTip": "C:\\Users\\luiza\\source\\repos\\SolRural.Data\\LocalizacaoDbSettings.cs",
+              "RelativeToolTip": "..\\SolRural.Data\\LocalizacaoDbSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T18:43:02.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "InstalacaoDbSettings.cs",
+              "DocumentMoniker": "C:\\Users\\luiza\\source\\repos\\SolRural.Data\\InstalacaoDbSettings.cs",
+              "RelativeDocumentMoniker": "..\\SolRural.Data\\InstalacaoDbSettings.cs",
+              "ToolTip": "C:\\Users\\luiza\\source\\repos\\SolRural.Data\\InstalacaoDbSettings.cs",
+              "RelativeToolTip": "..\\SolRural.Data\\InstalacaoDbSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T18:42:44.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FazendaDbSettings.cs",
+              "DocumentMoniker": "C:\\Users\\luiza\\source\\repos\\SolRural.Data\\FazendaDbSettings.cs",
+              "RelativeDocumentMoniker": "..\\SolRural.Data\\FazendaDbSettings.cs",
+              "ToolTip": "C:\\Users\\luiza\\source\\repos\\SolRural.Data\\FazendaDbSettings.cs",
+              "RelativeToolTip": "..\\SolRural.Data\\FazendaDbSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T18:42:15.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CultivoDbSettings.cs",
+              "DocumentMoniker": "C:\\Users\\luiza\\source\\repos\\SolRural.Data\\CultivoDbSettings.cs",
+              "RelativeDocumentMoniker": "..\\SolRural.Data\\CultivoDbSettings.cs",
+              "ToolTip": "C:\\Users\\luiza\\source\\repos\\SolRural.Data\\CultivoDbSettings.cs",
+              "RelativeToolTip": "..\\SolRural.Data\\CultivoDbSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T18:40:02.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\luiza\\source\\repos\\SolRural\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Users\\luiza\\source\\repos\\SolRural\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-21T19:13:08.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Cultivo.cs",
+              "DocumentMoniker": "C:\\Users\\luiza\\source\\repos\\SolRural.Models\\Cultivo.cs",
+              "RelativeDocumentMoniker": "..\\SolRural.Models\\Cultivo.cs",
+              "ToolTip": "C:\\Users\\luiza\\source\\repos\\SolRural.Models\\Cultivo.cs",
+              "RelativeToolTip": "..\\SolRural.Models\\Cultivo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T18:39:22.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MatrixFactorizationModelFactory.cs",
+              "DocumentMoniker": "C:\\Users\\luiza\\source\\repos\\SolRural.Factories\\MatrixFactorizationModelFactory.cs",
+              "RelativeDocumentMoniker": "..\\SolRural.Factories\\MatrixFactorizationModelFactory.cs",
+              "ToolTip": "C:\\Users\\luiza\\source\\repos\\SolRural.Factories\\MatrixFactorizationModelFactory.cs",
+              "RelativeToolTip": "..\\SolRural.Factories\\MatrixFactorizationModelFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T02:24:45.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IRecommendationModelFactory.cs",
+              "DocumentMoniker": "C:\\Users\\luiza\\source\\repos\\SolRural.Factories\\IRecommendationModelFactory.cs",
+              "RelativeDocumentMoniker": "..\\SolRural.Factories\\IRecommendationModelFactory.cs",
+              "ToolTip": "C:\\Users\\luiza\\source\\repos\\SolRural.Factories\\IRecommendationModelFactory.cs",
+              "RelativeToolTip": "..\\SolRural.Factories\\IRecommendationModelFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T02:23:27.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "RecommendationEngine.cs",
+              "DocumentMoniker": "C:\\Users\\luiza\\source\\repos\\SolRural.Service\\Recommendation\\RecommendationEngine.cs",
+              "RelativeDocumentMoniker": "..\\SolRural.Service\\Recommendation\\RecommendationEngine.cs",
+              "ToolTip": "C:\\Users\\luiza\\source\\repos\\SolRural.Service\\Recommendation\\RecommendationEngine.cs",
+              "RelativeToolTip": "..\\SolRural.Service\\Recommendation\\RecommendationEngine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T02:02:43.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CultivoRating.cs",
+              "DocumentMoniker": "C:\\Users\\luiza\\source\\repos\\SolRural.Service\\Recommendation\\CultivoRating.cs",
+              "RelativeDocumentMoniker": "..\\SolRural.Service\\Recommendation\\CultivoRating.cs",
+              "ToolTip": "C:\\Users\\luiza\\source\\repos\\SolRural.Service\\Recommendation\\CultivoRating.cs",
+              "RelativeToolTip": "..\\SolRural.Service\\Recommendation\\CultivoRating.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T01:58:13.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CultivoInstalacao.cs",
+              "DocumentMoniker": "C:\\Users\\luiza\\source\\repos\\SolRural.Models\\CultivoInstalacao.cs",
+              "RelativeDocumentMoniker": "..\\SolRural.Models\\CultivoInstalacao.cs",
+              "ToolTip": "C:\\Users\\luiza\\source\\repos\\SolRural.Models\\CultivoInstalacao.cs",
+              "RelativeToolTip": "..\\SolRural.Models\\CultivoInstalacao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T01:55:41.381Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

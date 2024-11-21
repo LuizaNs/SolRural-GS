@@ -1,0 +1,16 @@
+C:\Users\luiza\source\repos\SolRural.Factories\bin\Debug\net8.0\SolRural.Factories.deps.json
+C:\Users\luiza\source\repos\SolRural.Factories\bin\Debug\net8.0\SolRural.Factories.dll
+C:\Users\luiza\source\repos\SolRural.Factories\bin\Debug\net8.0\SolRural.Factories.pdb
+C:\Users\luiza\source\repos\SolRural.Factories\bin\Debug\net8.0\SolRural.Models.dll
+C:\Users\luiza\source\repos\SolRural.Factories\bin\Debug\net8.0\SolRural.Models.pdb
+C:\Users\luiza\source\repos\SolRural.Factories\obj\Debug\net8.0\SolRural.Factories.csproj.AssemblyReference.cache
+C:\Users\luiza\source\repos\SolRural.Factories\obj\Debug\net8.0\SolRural.Factories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luiza\source\repos\SolRural.Factories\obj\Debug\net8.0\SolRural.Factories.AssemblyInfoInputs.cache
+C:\Users\luiza\source\repos\SolRural.Factories\obj\Debug\net8.0\SolRural.Factories.AssemblyInfo.cs
+C:\Users\luiza\source\repos\SolRural.Factories\obj\Debug\net8.0\SolRural.Factories.csproj.CoreCompileInputs.cache
+C:\Users\luiza\source\repos\SolRural.Factories\obj\Debug\net8.0\SolRural.Factories.sourcelink.json
+C:\Users\luiza\source\repos\SolRural.Factories\obj\Debug\net8.0\SolRural.BCDE4166.Up2Date
+C:\Users\luiza\source\repos\SolRural.Factories\obj\Debug\net8.0\SolRural.Factories.dll
+C:\Users\luiza\source\repos\SolRural.Factories\obj\Debug\net8.0\refint\SolRural.Factories.dll
+C:\Users\luiza\source\repos\SolRural.Factories\obj\Debug\net8.0\SolRural.Factories.pdb
+C:\Users\luiza\source\repos\SolRural.Factories\obj\Debug\net8.0\ref\SolRural.Factories.dll

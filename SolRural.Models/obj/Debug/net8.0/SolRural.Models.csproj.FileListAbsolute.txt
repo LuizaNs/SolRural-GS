@@ -1,0 +1,13 @@
+C:\Users\luiza\source\repos\SolRural.Models\bin\Debug\net8.0\SolRural.Models.deps.json
+C:\Users\luiza\source\repos\SolRural.Models\bin\Debug\net8.0\SolRural.Models.dll
+C:\Users\luiza\source\repos\SolRural.Models\bin\Debug\net8.0\SolRural.Models.pdb
+C:\Users\luiza\source\repos\SolRural.Models\obj\Debug\net8.0\SolRural.Models.csproj.AssemblyReference.cache
+C:\Users\luiza\source\repos\SolRural.Models\obj\Debug\net8.0\SolRural.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luiza\source\repos\SolRural.Models\obj\Debug\net8.0\SolRural.Models.AssemblyInfoInputs.cache
+C:\Users\luiza\source\repos\SolRural.Models\obj\Debug\net8.0\SolRural.Models.AssemblyInfo.cs
+C:\Users\luiza\source\repos\SolRural.Models\obj\Debug\net8.0\SolRural.Models.csproj.CoreCompileInputs.cache
+C:\Users\luiza\source\repos\SolRural.Models\obj\Debug\net8.0\SolRural.Models.sourcelink.json
+C:\Users\luiza\source\repos\SolRural.Models\obj\Debug\net8.0\SolRural.Models.dll
+C:\Users\luiza\source\repos\SolRural.Models\obj\Debug\net8.0\refint\SolRural.Models.dll
+C:\Users\luiza\source\repos\SolRural.Models\obj\Debug\net8.0\SolRural.Models.pdb
+C:\Users\luiza\source\repos\SolRural.Models\obj\Debug\net8.0\ref\SolRural.Models.dll

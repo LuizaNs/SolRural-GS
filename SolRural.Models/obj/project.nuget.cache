@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZHEq6MTkQnA=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\luiza\\source\\repos\\SolRural.Models\\SolRural.Models.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\luiza\\.nuget\\packages\\mongodb.bson\\3.0.0\\mongodb.bson.3.0.0.nupkg.sha512",
+    "C:\\Users\\luiza\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\luiza\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

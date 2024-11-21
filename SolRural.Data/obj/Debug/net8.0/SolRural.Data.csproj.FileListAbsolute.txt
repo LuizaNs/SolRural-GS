@@ -1,0 +1,16 @@
+C:\Users\luiza\source\repos\SolRural.Data\bin\Debug\net8.0\SolRural.Data.deps.json
+C:\Users\luiza\source\repos\SolRural.Data\bin\Debug\net8.0\SolRural.Data.dll
+C:\Users\luiza\source\repos\SolRural.Data\bin\Debug\net8.0\SolRural.Data.pdb
+C:\Users\luiza\source\repos\SolRural.Data\obj\Debug\net8.0\SolRural.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luiza\source\repos\SolRural.Data\obj\Debug\net8.0\SolRural.Data.AssemblyInfoInputs.cache
+C:\Users\luiza\source\repos\SolRural.Data\obj\Debug\net8.0\SolRural.Data.AssemblyInfo.cs
+C:\Users\luiza\source\repos\SolRural.Data\obj\Debug\net8.0\SolRural.Data.csproj.CoreCompileInputs.cache
+C:\Users\luiza\source\repos\SolRural.Data\obj\Debug\net8.0\SolRural.Data.sourcelink.json
+C:\Users\luiza\source\repos\SolRural.Data\obj\Debug\net8.0\SolRural.Data.dll
+C:\Users\luiza\source\repos\SolRural.Data\obj\Debug\net8.0\refint\SolRural.Data.dll
+C:\Users\luiza\source\repos\SolRural.Data\obj\Debug\net8.0\SolRural.Data.pdb
+C:\Users\luiza\source\repos\SolRural.Data\obj\Debug\net8.0\ref\SolRural.Data.dll
+C:\Users\luiza\source\repos\SolRural.Data\bin\Debug\net8.0\SolRural.Models.dll
+C:\Users\luiza\source\repos\SolRural.Data\bin\Debug\net8.0\SolRural.Models.pdb
+C:\Users\luiza\source\repos\SolRural.Data\obj\Debug\net8.0\SolRural.Data.csproj.AssemblyReference.cache
+C:\Users\luiza\source\repos\SolRural.Data\obj\Debug\net8.0\SolRural.D686AE5C.Up2Date
